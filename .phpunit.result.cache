@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"BankAccount\\AccountTest::testBankAccount":4,"BankAccount\\AccountTest::testNotEnoughMoney":4,"BankAccount\\AccountTest::testTransferErrorBalance":4},"times":{"Warning":0.003,"BankAccount\\AccountTest::testBankAccount":0.003,"BankAccount\\AccountTest::testNotEnoughMoney":0,"BankAccount\\AccountTest::testTransferErrorBalance":0}}
